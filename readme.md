@@ -69,6 +69,6 @@ O valor de percentual_erro determina a sensibilidade da detecção de movimento.
 O código não leva em consideração o movimento de objetos dentro da cena. Ele apenas detecta se as imagens como um todo são diferentes.
 
 *Entrada*
-[text](Segmentacao_de_imagem/foto1.ppm) [text](Segmentacao_de_imagem/foto2.ppm)
+![Foto_sem_mudanca](image-3.png) [text](Segmentacao_de_imagem/foto2.ppm)
 *Saída*
 [text](Segmentacao_de_imagem/foto3.ppm)[text](Segmentacao_de_imagem/foto4.ppm)
