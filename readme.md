@@ -3,6 +3,7 @@
 Desenvolvedores: Adrielle Maria e Israel Santana
 
 Aqui vão ser hospedados todos os códigos que vão ser desenvolvidos ao longo da disciplina.
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Prática 1: 
@@ -67,3 +68,10 @@ Algoritmo:
 O código assume que as imagens imagem1 e imagem2 têm o mesmo tamanho (mesmo número de linhas e colunas).
 O valor de percentual_erro determina a sensibilidade da detecção de movimento. Um valor menor resultará em uma detecção mais precisa, mas também pode gerar falsos positivos em áreas com ruído ou pequenas diferenças de iluminação.
 O código não leva em consideração o movimento de objetos dentro da cena. Ele apenas detecta se as imagens como um todo são diferentes.
+
+*Arquivos de entrada*
+[text](Segmentacao_de_imagem/foto1.ppm) [text](Segmentacao_de_imagem/foto2.ppm)
+
+*As saidas do arquivo:*
+![alt text](image.png) ![alt text](image-1.png)
+foto de saida preto e branco (destaque do que foi alterado)//foto saida P&B (subtração do moviemnto)
