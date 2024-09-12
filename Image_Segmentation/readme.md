@@ -2,7 +2,7 @@
 
 Desenvolvedores: Adrielle Maria e Israel Santana
 
-Aqui vão ser hospedados todos os códigos que vão ser desenvolvidos ao longo da disciplina.
+Aqui vão ser hospedados todos os códigos que vão ser desenvolvidos ao longo da disciplina.</br>
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=blue&style=for-the-badge)
 
 # Prática 1: 
@@ -62,8 +62,10 @@ Algoritmo:
 4. Se houver movimento, define os valores RGB do pixel de resultado como 255 (branco).
 5. Se não houver movimento, define os valores RGB do pixel de resultado como 0 (preto).
 
-**Observações**
+[!IMPORTANT]
 
-O código assume que as imagens imagem1 e imagem2 têm o mesmo tamanho (mesmo número de linhas e colunas).
-O valor de percentual_erro determina a sensibilidade da detecção de movimento. Um valor menor resultará em uma detecção mais precisa, mas também pode gerar falsos positivos em áreas com ruído ou pequenas diferenças de iluminação.
-O código não leva em consideração o movimento de objetos dentro da cena. Ele apenas detecta se as imagens como um todo são diferentes.
+> O código assume que as imagens imagem1 e imagem2 têm o mesmo tamanho (mesmo número de linhas e colunas).
+> O código não leva em consideração o movimento de objetos dentro da cena. Ele apenas detecta se as imagens como um todo são diferentes.
+
+[!TIP]
+> O valor de percentual_erro determina a sensibilidade da detecção de movimento. Um valor menor resultará em uma detecção mais precisa, mas também pode gerar falsos positivos em áreas com ruído ou pequenas diferenças de iluminação.
