@@ -1,13 +1,17 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=blue&style=for-the-badge)
+<p>
+
 # Computer Graphic
 
-Desenvolvedores: Adrielle Maria e Israel Santana
+### Desenvolvedores
 
-Aqui vão ser hospedados todos os códigos que vão ser desenvolvidos.</br>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=blue&style=for-the-badge)
+|[<img loading="lazy" src="https://github.com/user-attachments/assets/7f416696-b9c6-4b16-88a2-ada81d06b1e3" width=70><br><sub>Israel Santana</sub>](https://github.com/SantanaIsrael)<p> | [<img loading="lazy" src="https://github.com/user-attachments/assets/fe61249e-cab9-459c-9aa5-873cf4820d94" width=70><br><sub>Adrielle Maria</sub>](https://github.com/AdrielleQueiroz) |
 
-# Prática 1: 
+> Aqui serão hospedados todos os código que vão ser desenvolvidos ao longo do projeto.</br>
 
-ALGUMAS EXIGÊNCIAS
+## Prática 1: 
+
+### 🔨 ALGUMAS EXIGÊNCIAS
 
 - Todos os códigos vão ser desenvolvidos para rodar no sistema operacional linux
 - Apresentar duas imagens de saída
@@ -62,10 +66,9 @@ Algoritmo:
 4. Se houver movimento, define os valores RGB do pixel de resultado como 255 (branco).
 5. Se não houver movimento, define os valores RGB do pixel de resultado como 0 (preto).
 
-[!IMPORTANT]
-
+> [!CAUTION]
 > O código assume que as imagens imagem1 e imagem2 têm o mesmo tamanho (mesmo número de linhas e colunas).
 > O código não leva em consideração o movimento de objetos dentro da cena. Ele apenas detecta se as imagens como um todo são diferentes.
 
-[!TIP]
+> [!TIP]
 > O valor de percentual_erro determina a sensibilidade da detecção de movimento. Um valor menor resultará em uma detecção mais precisa, mas também pode gerar falsos positivos em áreas com ruído ou pequenas diferenças de iluminação.
