@@ -2,7 +2,7 @@
 
 Desenvolvedores: Adrielle Maria e Israel Santana
 
-Aqui vão ser hospedados todos os códigos que vão ser desenvolvidos ao longo da disciplina.</br>
+Aqui vão ser hospedados todos os códigos que vão ser desenvolvidos.</br>
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=blue&style=for-the-badge)
 
 # Prática 1: 
