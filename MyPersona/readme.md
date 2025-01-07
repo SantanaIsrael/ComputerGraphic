@@ -2,6 +2,12 @@
 
 MiniMy é um projeto que utiliza a biblioteca OpenGL para desenhar elementos gráficos na tela, formando um personagem com diversas características personalizáveis.
 
+## Contribuição
+
+Este projeto foi desenvolvido por: 
+
+|[<img loading="lazy" src="https://github.com/user-attachments/assets/7f416696-b9c6-4b16-88a2-ada81d06b1e3" width=70><br><sub>Israel Santana</sub>](https://github.com/SantanaIsrael)<p> | [<img loading="lazy" src="https://github.com/user-attachments/assets/fe61249e-cab9-459c-9aa5-873cf4820d94" width=70><br><sub>Adrielle Maria</sub>](https://github.com/AdrielleQueiroz) |
+
 ## Instalação
 
 Para compilar e executar o projeto, você precisará das bibliotecas OpenGL, GLU e GLUT. Certifique-se de que elas estão instaladas no seu sistema.
@@ -10,8 +16,8 @@ Para compilar e executar o projeto, você precisará das bibliotecas OpenGL, GLU
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/minimy.git
-    cd minimy
+    git clone https://github.com/SantanaIsrael/ComputerGraphic/tree/main/MyPersona
+    cd MyPersona
     ```
 
 2. Compile o projeto:
@@ -33,11 +39,3 @@ Após executar o projeto, você verá uma janela onde poderá interagir com o pe
 - `Olho`: teclas `1` a `7`
 - `Nariz`: teclas `Q` a `e`
 - `Boca`: teclas `a` a `f`
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório e enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
