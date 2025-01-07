@@ -23,7 +23,7 @@ O projeto consiste na criação de uma aplicação gráfica que permite a visual
 
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências necessárias utilizando o gerenciador de pacotes apropriado.
-3. Compile e execute a aplicação conforme as instruções fornecidas no arquivo ``.
+3. Compile utilizando: *gcc -o nomeCodigoSaida nomeCodigo.c -lGL -lGLU -lglut -lm*.
 
 ## Contribuições
 
